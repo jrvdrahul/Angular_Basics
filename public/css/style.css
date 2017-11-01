@@ -1,0 +1,195 @@
+#wrapper{
+    float: left;
+    width: 100%;
+    margin: 0px;
+}
+
+/*header*/
+#header{
+    float:left;
+    width: 100%;
+
+}
+
+#header .menu{
+    padding: 26px;
+}
+#header span {
+    FONT-SIZE: 20PX;
+    PADDING: 20px;
+}
+
+.circle {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    margin-top:5px;
+    float:right;
+    border:5px solid black;
+}
+
+.circle img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+/*slider*/
+#slider{
+    float: left;
+    width:100%;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    height :auto;
+    margin: 0px;
+}
+#slider img {
+    height: 400px;
+    width: 100%;
+}
+
+/*
+discover*/
+#discover {
+    float: left;
+    width: 100%;
+    border: 2px solid grey;
+    margin-top: 15px;
+    padding: 10px
+}
+
+#discover img {
+    height: 70px;
+    float: right;
+}
+
+/*placesToVisit*/
+#placesToVisit{
+    float: left;
+    width: 100%;
+    margin-top:20px;
+    background-image: url(../img/Bike2.jpg);
+    background-size: cover;
+    height: 400px;
+}
+
+#placesToVisit span {
+    border: 2px solid greenyellow;
+    padding: 15px;
+    font-size: xx-large;
+    text-align: center;
+    width: 100%;
+    float: left;
+}
+
+/*
+places*/
+#places{
+    float: left;
+    width: 100%;
+    margin-top:20px;
+
+    padding: 20px;
+
+}
+
+
+
+
+.Awesome{
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 25px;
+    font-size: large
+}
+
+#places img {
+    height: 130px;
+    width: 100%;
+}
+
+.placesBox{
+    border: 2px solid blue;
+    padding: 10px;
+    /*width: 24%;
+    margin-left: 10px;*/
+
+}
+
+.topPlaces{
+    text-align: center;
+    font-weight: bolder;
+}
+
+
+/*placesToEat*/
+#placesToEat{
+    float: left;
+    width: 100%;
+    margin-top:20px;
+    background-image: url(../img/cuisine-of-rajasthan.jpg);
+    background-size: cover;
+    height: 400px;
+}
+
+#placesToEat span {
+    border: 2px solid greenyellow;
+    padding: 15px;
+    font-size: xx-large;
+    text-align: center;
+    width: 100%;
+    float: left;
+}
+
+/*
+food*/
+#food{
+    float: left;
+    width: 100%;
+    margin-top:20px;
+    padding: 20px;
+
+}
+
+#food img {
+    height: 130px;
+    width: 100%;
+}
+
+.foodBox{
+    border: 2px solid blue;
+    padding: 10px;
+    /*width: 24%;
+    margin-left: 10px;*/
+}
+
+.topFood{
+    text-align: center;
+    font-weight: bolder;
+}
+
+
+/*
+footer*/
+#footer{
+    float: left;
+    width: 100%;
+    margin-top:20px;
+    background-image: url(../img/rajasthan1.jpg);
+    height: 350px;
+    background-size: cover;
+}
+
+#footer ul {
+    padding: 0px;
+}
+
+#footer ul li {
+    list-style: none;
+    line-height: 30px;
+    margin: 0px;
+    padding: 0px;
+}
